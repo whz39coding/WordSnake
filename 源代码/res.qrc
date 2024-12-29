@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/r1">
+        <file>sorce/plmm.jpg</file>
+        <file>sorce/start.png</file>
+        <file>sorce/Snack_back.png</file>
+        <file>sorce/Rule.png</file>
+        <file>sorce/gameBack.png</file>
+        <file>sorce/word.txt</file>
+        <file>sorce/backMusic.mp3</file>
+        <file>sorce/overBack.jpg</file>
+        <file>sorce/AI.png</file>
+        <file>sorce/dif.png</file>
+        <file>sorce/easy.png</file>
+        <file>sorce/forever.png</file>
+        <file>sorce/startgame.png</file>
+        <file>sorce/restart.png</file>
+        <file>sorce/quit.png</file>
+        <file>sorce/soun6.mp3</file>
+        <file>sorce/soun7.mp3</file>
+        <file>sorce/soun8.mp3</file>
+        <file>sorce/sound1.wav</file>
+        <file>sorce/sound2.wav</file>
+        <file>sorce/amazing.wav</file>
+        <file>sorce/beautiful.wav</file>
+        <file>sorce/defeat.wav</file>
+        <file>sorce/finish.wav</file>
+        <file>sorce/first.wav</file>
+        <file>sorce/unbelieve.wav</file>
+        <file>sorce/nicekilling.wav</file>
+        <file>sorce/forbtn.png</file>
+    </qresource>
+</RCC>
